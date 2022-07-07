@@ -28,7 +28,7 @@ h5,h6,p,a,li,ol{
 /* banner css start*/
 
 #banner{
-    background: url(../images/donation1.jpg);
+    background: url(/images/donation0.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
